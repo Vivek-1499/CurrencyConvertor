@@ -166,7 +166,7 @@ button:hover {
 }
 
 /* Responsive */
-@media (max-width: 530px) {
+@media (max-width: 580px) {
   body {
     padding: 4vh 4vw;
   }
