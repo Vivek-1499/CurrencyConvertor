@@ -164,3 +164,58 @@ button {
 button:hover {
   background-color: #5848d8;
 }
+
+/* Responsive */
+@media (max-width: 600px) {
+  .container {
+    padding: 20px;
+    max-width: 95%;
+  }
+
+  .container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+
+  .amount input {
+    padding: 10px 12px;
+    font-size: 1rem;
+  }
+
+  .dropdown {
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px 0;
+  }
+
+  .from, .to {
+    width: 100%;
+    padding: 8px 12px;
+  }
+
+  .select-container {
+    padding: 8px 12px;
+  }
+
+  .select-container img {
+    width: 32px;
+    height: 20px;
+  }
+
+  .msg {
+    font-size: 0.95rem;
+    padding: 10px;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 12px 0;
+  }
+
+  .fa-arrow-right-arrow-left {
+    transform: rotate(90deg);
+    font-size: 1.4rem;
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+}
