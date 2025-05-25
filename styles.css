@@ -183,7 +183,7 @@ button:hover {
   }
 
   .dropdown {
-    flex-direction: column;
+    flex-direction: row;
     gap: 20px;
     margin: 20px 0;
   }
