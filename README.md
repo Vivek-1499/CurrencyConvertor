@@ -9,10 +9,10 @@ A sleek and responsive currency converter web application that lets users conver
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-![Desktop Screenshot](./images/image.png)
+![Desktop View](./images/image.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](./images/Responsive.jpg)
+![Mobile View](./images/Responsive.jpg)
 
 > ✨ A modern dark UI with smooth transitions, flag icons, and intuitive layout.
 
